@@ -897,12 +897,7 @@ O WSL é uma ferramenta de desenvolvimento e não é recomendado para uso em pro
 
 Não, só é possível rodar um de cada vez. É até possível ter os dois instalados, mas só um pode ser executado por vez.
 
-### Dúvidas sobre o Docker Desktop
-
-Fizemos um overview completo do Docker Desktop, inclusive para outros sistemas operacionais também, veja [https://www.youtube.com/watch?v=99dCerRKO6s](https://www.youtube.com/watch?v=99dCerRKO6s)
-
-### Quer configurar um ambiente mais produtivo no Windows?
-
+Um grande abraço!!!
 Acesse os tutorias abaixo:
 
 - Configuração de ambiente de desenvolvimento produtivo: [https://github.com/argentinaluiz/ambiente-dev-produtivo](https://github.com/argentinaluiz/ambiente-dev-produtivo)
